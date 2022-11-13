@@ -19,4 +19,4 @@
 
 - > Sample output
 
-![Image](./6.PNG)
+![Image](./thumbnail.PNG)
