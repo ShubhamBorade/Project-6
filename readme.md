@@ -1,6 +1,4 @@
-# Project-6
-
-# My Six'th Project
+# Plant Home Page
 
 > i have learnt basics of HTML and CSS in this project.
 
