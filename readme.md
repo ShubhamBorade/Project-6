@@ -18,4 +18,5 @@
 
 - > Sample output
 
-![Image](./thumbnail.PNG)
+![Link](https://user-images.githubusercontent.com/67215417/202182914-4ea84d51-96eb-4441-a86b-1f16e272efe3.png)
+
